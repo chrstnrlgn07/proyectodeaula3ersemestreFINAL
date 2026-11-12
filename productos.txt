@@ -1,0 +1,5 @@
+1;Pan de Perro;Pan;15000.0;20;2026-11-12
+2;Cerveza Duff;Bebida;5000.0;20;2027-05-18
+3;Salchicha;Carnes;2000.0;20;2026-11-10
+4;Carne Patty;Carnes;5500.0;20;2026-11-11
+5;Pan de Hamburguesa;Pan;15000.0;20;2026-11-18
